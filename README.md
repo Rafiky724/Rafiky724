@@ -10,7 +10,7 @@
 	
 ## :boy: **About me**
 
-I'm a Systems Engineering student in my eighth semester, passionate about building technological solutions with real impact. I focus on web application development, applied artificial intelligence, and the creation of tools that improve organization and well-being, especially in community settings like scouting groups.
+I'm an eighth-semester Systems Engineering student passionate about web development and creating scalable technological solutions. I'm focused on improving my knowledge of programming and software architecture.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
